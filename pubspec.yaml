@@ -96,4 +96,3 @@ flutter:
     - assets/images/firma.png
     - assets/fonts/LiberationSans-Regular.ttf
     - assets/fonts/LiberationSans-Bold.ttf
-    - .env
